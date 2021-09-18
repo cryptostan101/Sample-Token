@@ -46,5 +46,7 @@ const sampleV2 = await SampleV2.attach("0PROXY CONTRACT ADDRESS")
 
 https://forum.openzeppelin.com/t/openzeppelin-upgrades-step-by-step-tutorial-for-hardhat/3580
 
+https://wizard.openzeppelin.com/
+
 
 ```
